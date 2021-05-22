@@ -1,0 +1,12 @@
+D:\برنامه نویسی\Tamrins\Test_Projects\ASP.Net core5\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+D:\برنامه نویسی\Tamrins\Test_Projects\ASP.Net core5\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+D:\برنامه نویسی\Tamrins\Test_Projects\ASP.Net core5\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+D:\برنامه نویسی\Tamrins\Test_Projects\ASP.Net core5\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+D:\برنامه نویسی\Tamrins\Test_Projects\ASP.Net core5\Infrastructure\obj\Debug\net5.0\Infrastructure.csprojAssemblyReference.cache
+D:\برنامه نویسی\Tamrins\Test_Projects\ASP.Net core5\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\برنامه نویسی\Tamrins\Test_Projects\ASP.Net core5\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+D:\برنامه نویسی\Tamrins\Test_Projects\ASP.Net core5\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+D:\برنامه نویسی\Tamrins\Test_Projects\ASP.Net core5\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\برنامه نویسی\Tamrins\Test_Projects\ASP.Net core5\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+D:\برنامه نویسی\Tamrins\Test_Projects\ASP.Net core5\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+D:\برنامه نویسی\Tamrins\Test_Projects\ASP.Net core5\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb

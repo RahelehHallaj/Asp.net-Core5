@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\ASP.Net core5\\ASP.Net core5.csproj": {}
+  },
+  "projects": {
+    "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\ASP.Net core5\\ASP.Net core5.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\ASP.Net core5\\ASP.Net core5.csproj",
+        "projectName": "ASP.Net core5",
+        "projectPath": "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\ASP.Net core5\\ASP.Net core5.csproj",
+        "packagesPath": "C:\\Users\\Computer Sadr\\.nuget\\packages\\",
+        "outputPath": "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\ASP.Net core5\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Computer Sadr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
