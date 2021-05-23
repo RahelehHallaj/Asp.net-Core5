@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bWftBsSm6oe6dUfXEtUPmsMBKAjr2Y0OPonFid8gSs5+3rFVeLDr3tTwwgRG8uGl0TMdGajJmJQRvhmWj/a6Zg==",
+  "dgSpecHash": "EQ85pzmwrkoKYeeA+WzMIpnDYPpOqWr15QefxjYqZ1yr+v8vFblNb6mAjVeIaT+orkJTrsSMOeXg2UooHIFDcQ==",
   "success": true,
-  "projectFilePath": "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\Application\\Application.csproj",
+  "projectFilePath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Computer Sadr\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.6\\microsoft.aspnetcore.cryptography.internal.5.0.6.nupkg.sha512",
     "C:\\Users\\Computer Sadr\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.6\\microsoft.aspnetcore.cryptography.keyderivation.5.0.6.nupkg.sha512",

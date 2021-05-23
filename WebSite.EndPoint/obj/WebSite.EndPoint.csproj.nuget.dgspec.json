@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\WebSite.EndPoint\\WebSite.EndPoint.csproj": {}
+    "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\WebSite.EndPoint\\WebSite.EndPoint.csproj": {}
   },
   "projects": {
-    "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\Application\\Application.csproj": {
+    "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\Application\\Application.csproj",
+        "projectPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Computer Sadr\\.nuget\\packages\\",
-        "outputPath": "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\Application\\obj\\",
+        "outputPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Computer Sadr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\Domain\\Domain.csproj"
+              "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Domain\\Domain.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\Domain\\Domain.csproj": {
+    "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\Domain\\Domain.csproj",
+        "projectPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Computer Sadr\\.nuget\\packages\\",
-        "outputPath": "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\Domain\\obj\\",
+        "outputPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Computer Sadr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -128,14 +128,14 @@
         }
       }
     },
-    "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\Persistence\\Persistence.csproj": {
+    "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\Persistence\\Persistence.csproj",
-        "projectName": "Persistence",
-        "projectPath": "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Computer Sadr\\.nuget\\packages\\",
-        "outputPath": "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\Persistence\\obj\\",
+        "outputPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Computer Sadr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -152,11 +152,83 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\Application\\Application.csproj": {
-                "projectPath": "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\Application\\Application.csproj"
+              "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Persistence\\Persistence.csproj": {
+                "projectPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Persistence\\Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Persistence\\Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Persistence\\Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\Computer Sadr\\.nuget\\packages\\",
+        "outputPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Computer Sadr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Application\\Application.csproj": {
+                "projectPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Application\\Application.csproj"
               },
-              "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\Domain\\Domain.csproj"
+              "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Domain\\Domain.csproj"
               }
             }
           }
@@ -213,14 +285,14 @@
         }
       }
     },
-    "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\WebSite.EndPoint\\WebSite.EndPoint.csproj": {
+    "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\WebSite.EndPoint\\WebSite.EndPoint.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\WebSite.EndPoint\\WebSite.EndPoint.csproj",
+        "projectUniqueName": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\WebSite.EndPoint\\WebSite.EndPoint.csproj",
         "projectName": "WebSite.EndPoint",
-        "projectPath": "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\WebSite.EndPoint\\WebSite.EndPoint.csproj",
+        "projectPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\WebSite.EndPoint\\WebSite.EndPoint.csproj",
         "packagesPath": "C:\\Users\\Computer Sadr\\.nuget\\packages\\",
-        "outputPath": "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\WebSite.EndPoint\\obj\\",
+        "outputPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\WebSite.EndPoint\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Computer Sadr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -237,8 +309,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\Persistence\\Persistence.csproj": {
-                "projectPath": "D:\\برنامه نویسی\\Tamrins\\Test_Projects\\ASP.Net core5\\Persistence\\Persistence.csproj"
+              "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Infrastructure\\Infrastructure.csproj"
+              },
+              "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Persistence\\Persistence.csproj": {
+                "projectPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -266,6 +341,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.6, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
             }
           },
           "imports": [
