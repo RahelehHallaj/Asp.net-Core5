@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bJb0qmESfz/fJL9qDLpeePQ5iGff8cNT4lKjLNPTQVfQluwhpobZNq+kyVmV2/+vUaOKuBfA/okHtWxm0ZYpzw==",
+  "dgSpecHash": "+2eE+ip9UvjcbOG9v05yHyo/M0Sra/j92TTXDOpMSpJCqYIfAl8IExG/CsOBFHv0E1eFtqMpaXCNxmzbuWNwIg==",
   "success": true,
-  "projectFilePath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\WebSite.EndPoint\\WebSite.EndPoint.csproj",
+  "projectFilePath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\WebSite.EndPoint\\WebSite.EndPoint.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Computer Sadr\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Computer Sadr\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

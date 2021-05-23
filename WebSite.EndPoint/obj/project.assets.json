@@ -7987,11 +7987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\WebSite.EndPoint\\WebSite.EndPoint.csproj",
+      "projectUniqueName": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\WebSite.EndPoint\\WebSite.EndPoint.csproj",
       "projectName": "WebSite.EndPoint",
-      "projectPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\WebSite.EndPoint\\WebSite.EndPoint.csproj",
+      "projectPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\WebSite.EndPoint\\WebSite.EndPoint.csproj",
       "packagesPath": "C:\\Users\\Computer Sadr\\.nuget\\packages\\",
-      "outputPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\WebSite.EndPoint\\obj\\",
+      "outputPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\WebSite.EndPoint\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Computer Sadr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8008,11 +8008,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Infrastructure\\Infrastructure.csproj"
+            "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Infrastructure\\Infrastructure.csproj"
             },
-            "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Persistence\\Persistence.csproj": {
-              "projectPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Persistence\\Persistence.csproj"
+            "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Persistence\\Persistence.csproj": {
+              "projectPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Persistence\\Persistence.csproj"
             }
           }
         }

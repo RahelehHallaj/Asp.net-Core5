@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Domain\\Domain.csproj": {}
+    "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Domain\\Domain.csproj": {
+    "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Domain\\Domain.csproj",
+        "projectPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Computer Sadr\\.nuget\\packages\\",
-        "outputPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Domain\\obj\\",
+        "outputPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Computer Sadr\\AppData\\Roaming\\NuGet\\NuGet.Config",

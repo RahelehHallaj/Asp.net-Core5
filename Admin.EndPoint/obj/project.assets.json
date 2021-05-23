@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Admin.EndPoint\\Admin.EndPoint.csproj",
+      "projectUniqueName": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Admin.EndPoint\\Admin.EndPoint.csproj",
       "projectName": "Admin.EndPoint",
-      "projectPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Admin.EndPoint\\Admin.EndPoint.csproj",
+      "projectPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Admin.EndPoint\\Admin.EndPoint.csproj",
       "packagesPath": "C:\\Users\\Computer Sadr\\.nuget\\packages\\",
-      "outputPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Admin.EndPoint\\obj\\",
+      "outputPath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Admin.EndPoint\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Computer Sadr\\AppData\\Roaming\\NuGet\\NuGet.Config",

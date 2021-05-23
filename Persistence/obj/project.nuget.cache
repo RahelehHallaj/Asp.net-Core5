@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YWPsrD+XXUdsaPeDM14+o0lxn1lRZ8JBk6m1DYl0U5DGOMvZt4L7r0lpv7Ul7BKGKtivHp0vJJHkUsUKvHr8hQ==",
+  "dgSpecHash": "pLEDydh7AIbsFrxBa7iPvNqmkK303UITvi+YmGwWbpnBeSoX6JD53gaY2ZVR7dLMaUOyOCZ1uLb7AQ4Byh6SXw==",
   "success": true,
-  "projectFilePath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Core5Project\\Persistence\\Persistence.csproj",
+  "projectFilePath": "D:\\برنامه نویسی\\Tamrins\\Asp.Net.Core\\Asp.net Core5\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Computer Sadr\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Computer Sadr\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.6\\microsoft.aspnetcore.cryptography.internal.5.0.6.nupkg.sha512",
